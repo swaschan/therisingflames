@@ -4,7 +4,7 @@ import styles from './page.module.css'
 export default function Home() {
   return (
     <main className={styles.main}>
-      <h1> we're fucked</h1>
+      <h1>were fucked</h1>
     </main>
   )
 }
